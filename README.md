@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My Discord: FIVE#1337
+
+My Private Plugins and for dev:
+[Discord Server](https://discord.gg/ajW69wN)
+
 <!--
 **theelsaud/theelsaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
