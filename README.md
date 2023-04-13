@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Discord: FIVE#3848
+My Discord: FIVE#1337
 
 My Private Plugins and for dev:
 [Discord Server](https://discord.gg/ajW69wN)
