@@ -3,7 +3,7 @@
 Stack was a mistake...
 
 ### About me: 
-**My website**: [statebyte.dev](https://statebyte.dev)
+**My Website**: [statebyte.dev](https://statebyte.dev)  
 **GitLab**: [gitlab.com/statebyte](https://gitlab.com/statebyte)
 
 ### Contact Me
