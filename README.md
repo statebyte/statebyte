@@ -1,7 +1,15 @@
-# 👋 Hi, I’m **StateByte**  
-### Fullstack Software Engineer | Yandex Intern  
+# 👋 Hi, I’m **Omar El Sayed**  
+### Fullstack Software Engineer
+I worked at Yandex, Cybershoke, and many other companies as part of project activities. I also support Open Source.
 
 > *Stack was a mistake...* 😅
+
+My Current Projects:
+- ASC (Code name: X-Management) / Now in development
+- AI-Powered Testing Platform
+- JSM Messanger
+- Online store with its own MVC and ACL models
+- A simulator for assessing the teamwork skills of UAV operators (Patented)
 
 ---
 
