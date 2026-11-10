@@ -41,6 +41,16 @@ I design, build and operate digital products: API contracts, interfaces, infrast
 </tr>
 </table>
 
+### ❤️ Open Source
+
+I love open source: I build in the open and give back whenever I can.
+
+| Repository | What it does | |
+|:--|:--|:--|
+| [**asc-daemon**](https://github.com/AdminServiceCloud/asc-daemon) | Modern Linux CLI utility for application runtime management, part of [AdminService.Cloud](https://adminservice.cloud) | ![Rust](https://img.shields.io/badge/Rust-1e1b2e?style=flat-square&logo=rust&logoColor=A78BFA) |
+| [**server-speedtest**](https://github.com/statebyte/server-speedtest) | Self-hosted speed test utility with a web UI | ![TypeScript](https://img.shields.io/badge/TypeScript-1e1b2e?style=flat-square&logo=typescript&logoColor=A78BFA) |
+| [**VIP-Core-Reloaded**](https://github.com/statebyte/VIP-Core-Reloaded) | Plugin for creating privileged user groups in Source games | ![SourcePawn](https://img.shields.io/badge/SourcePawn-1e1b2e?style=flat-square&logo=steam&logoColor=A78BFA) |
+
 ### 🛠 Toolbox
 
 <p align="center">
