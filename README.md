@@ -69,12 +69,16 @@ I design, build and operate digital products: API contracts, interfaces, infrast
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=statebyte&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statebyte&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=statebyte&theme=tokyonight" width="100%" alt="Profile details and contribution graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=statebyte&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=ffffff" width="100%" alt="Contribution graph">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=statebyte&theme=tokyonight" alt="GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=statebyte&theme=tokyonight" alt="Most commit languages">
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=statebyte&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak">
 </p>
 
 <details>
